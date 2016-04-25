@@ -1,0 +1,20 @@
+{
+  "name": "ang-playground",
+  "version": "1.0.0",
+  "description": "Create HTML doc Link bootstrap and angularjs Setup input and data streaming.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhomolak/ang-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhomolak/ang-playground/issues"
+  },
+  "homepage": "https://github.com/mhomolak/ang-playground#readme"
+}
